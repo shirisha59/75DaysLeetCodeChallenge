@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -134,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
