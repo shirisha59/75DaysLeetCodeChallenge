@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
