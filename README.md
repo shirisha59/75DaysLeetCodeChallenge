@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1622-fancy-sequence](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
