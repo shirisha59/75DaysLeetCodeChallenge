@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
