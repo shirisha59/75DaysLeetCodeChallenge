@@ -243,10 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 ## Topological Sort
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
