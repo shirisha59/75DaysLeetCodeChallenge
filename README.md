@@ -248,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Linked List
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
