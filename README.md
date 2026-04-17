@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 ## Depth-First Search
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 ## Topological Sort
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Monotonic Stack
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
