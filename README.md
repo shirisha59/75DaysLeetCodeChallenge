@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [1622-fancy-sequence](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sliding Window
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
