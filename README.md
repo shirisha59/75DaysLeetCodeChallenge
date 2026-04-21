@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
+| [1043-partition-array-for-maximum-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
