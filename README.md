@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
