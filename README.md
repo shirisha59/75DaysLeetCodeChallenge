@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
