@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
