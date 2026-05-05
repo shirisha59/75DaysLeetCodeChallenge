@@ -1,11 +1,11 @@
 class Solution {
     public int hIndex(int[] citations) {
-        int n=citations.length,i;
+        int n=citations.length;
+        int i;
         Arrays.sort(citations);
         for(i=1;i<=n;i++){
-            if(i>citations[n-i]) break;  
+            if(i>citations[n-i]) break;
         }
         return i-1;
-        
     }
 }
