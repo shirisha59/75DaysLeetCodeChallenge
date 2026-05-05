@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
