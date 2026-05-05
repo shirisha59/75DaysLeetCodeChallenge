@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
