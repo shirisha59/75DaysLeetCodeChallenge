@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
