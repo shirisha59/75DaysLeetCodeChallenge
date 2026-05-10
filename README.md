@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0834-sum-of-distances-in-tree) |
 | [1043-partition-array-for-maximum-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1043-partition-array-for-maximum-sum) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Enumeration
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
