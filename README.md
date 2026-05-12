@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
