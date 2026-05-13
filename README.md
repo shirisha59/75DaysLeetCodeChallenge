@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2615-sum-of-distances](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/shirisha59/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
